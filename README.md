@@ -1,11 +1,38 @@
+# FUTURE_UX_02
 
-  # Update to Daily Rituals
+## Project
+Daily Rituals – Cafe Mobile App UI
 
-  This is a code bundle for Update to Daily Rituals. The original project is available at https://www.figma.com/design/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals.
+## Objective
+Designed a modern mobile app UI for Daily Rituals.
 
-  ## Running the code
+## Features
+- Onboarding flow
+- Login / Signup screen
+- Menu browsing
+- Cart and checkout
+- Order confirmation
 
-  Run `npm i` to install the dependencies.
+## Tools Used
+- Figma
+- Google Fonts
+- Icons
 
-  Run `npm run dev` to start the development server.
-  
+## Prototype
+
+Daily Rituals Figma Link:  
+[https://www.figma.com/make/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals?code-node-id=0-9&p=f&t=pPQVHarbfl2KTrn2-0&fullscreen=1
+](url)
+## Screenshots
+
+![Onboarding](Screenshots/onboarding.png)
+
+![Home](Screenshots/home.png)
+
+![Menu](Screenshots/menu.png)
+
+![Cart](Screenshots/cart.png)
+
+## Design Rationale
+
+The Daily Rituals app was designed with a mobile-first approach...
