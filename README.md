@@ -24,7 +24,7 @@ Daily Rituals Figma Link:
 https://www.figma.com/make/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals?code-node-id=0-9&p=f&t=3Z50DriBeDdn0dpd-0&fullscreen=1
 ## Screenshots
 
-![Onboarding](Screenshots/onboarding.png)
+
 
 ![Home](Screenshots/home.png)
 
@@ -32,6 +32,3 @@ https://www.figma.com/make/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals?code-n
 
 ![Cart](Screenshots/cart.png)
 
-## Design Rationale
-
-The Daily Rituals app was designed with a mobile-first approach...
