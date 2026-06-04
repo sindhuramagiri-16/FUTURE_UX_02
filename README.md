@@ -21,7 +21,7 @@ Designed a modern mobile app UI for Daily Rituals.
 ## Prototype
 
 Daily Rituals Figma Link:  
-https://www.figma.com/make/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals?fullscreen=1&t=qHd6nrhHcn5oLACy-1&code-node-id=0-9
+https://www.figma.com/make/RHN72VxeSEaOnYB8abTEyW/Update-to-Daily-Rituals?code-node-id=0-9&t=PkqaQUQoDhjPD5NS-0&fullscreen=1
 ## Screenshots
 
 
